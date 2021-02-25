@@ -1,4 +1,4 @@
-### Hi there, I am Rashmi Bhujbal 👋
+### Hi there, I am Rashmi Bhujbal <img src="https://raw.githubusercontent.com/Rashmi1404/RASHMI1404/main/wave.gif" width="30px">
 
 
 - 🔭 I’m currently working on my Internship.
