@@ -1,8 +1,7 @@
-## Hi there, I am Rashmi Bhujbal <img src="https://raw.githubusercontent.com/Rashmi1404/RASHMI1404/main/wave.gif" width="30px">
+# Hi there, I am Rashmi Bhujbal <img src="https://raw.githubusercontent.com/Rashmi1404/RASHMI1404/main/wave.gif" width="30px">
 
 
 - 🔭 I’m currently working on my Internship.
-- 🌱 I’m currently learning AWS.
 - 👯 I’m looking to collaborate on Data Science or Machine Learning Projects.
 - 🤔 I’m looking for help with Job opportunities For Fresher.
 - 💬 Ask me about Anything about Data Science.
